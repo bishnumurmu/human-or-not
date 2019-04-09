@@ -1,6 +1,8 @@
 # human-or-not
 Model showing if an image is human or not
 
+I have used tensorflow.keras as backend for this problem.
+Libraries used - tensorflow.keras, numpy, matplotlib
 Datasets - I have used the dataset 'horses and humans' which is availaible in tensorflow datasets.
 
 Code - I have written this code using the google collabs kernels.
