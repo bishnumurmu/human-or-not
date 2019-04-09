@@ -16,4 +16,6 @@ Training the images - Using model.fit_generator() to fit the training set and va
 
 Accuracy - The accuracy for training set was 0.9854 and that for the test set comes out to be 0.9704.
 
+Now just to see if an Image is human or not, I have uploaded the photo of Geoffrey Hinton and the model predicted correctly as human.
+
 
